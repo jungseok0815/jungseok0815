@@ -3,19 +3,6 @@
 ## 🚀 소개
 환경 및 수자원 관리 시스템을 위한 엔터프라이즈급 애플리케이션을 전문으로 하는 백엔드 개발자입니다. 실제 세계에 영향을 미치는 견고하고 확장 가능한 솔루션을 구축하는 것을 즐깁니다.
 
-```java
-public class Developer {
-    private String name = "차정석";
-    private String role = "백엔드 개발자";
-    private String[] languages = {"Java", "JavaScript", "Python", "SQL"};
-    private String[] currentFocus = {"수자원 관리", "위성 데이터 처리", "GIS"};
-    
-    public String getCurrentWork() {
-        return "베트남 하천 유역을 위한 수자원 관리 시스템 개발 중 🌊";
-    }
-}
-```
-
 ## 💼 현재 작업 중인 프로젝트
 - 🌊 **수자원 관리 시스템** - 베트남 하천 유역 관리를 위한 통합 솔루션 개발
 - 🛰️ **위성 데이터 처리** - GEMS/GEO-KOMPSAT-2B 환경 데이터 작업
