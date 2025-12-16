@@ -13,15 +13,13 @@
 
 ### 백엔드
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 프론트엔드
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### 데이터베이스 & 도구
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,12 +70,6 @@
 - 머신러닝 기반 추천 시스템
 - 실시간 매칭 알고리즘 구현
 
-## 📊 GitHub 통계
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=당신의깃헙아이디&show_icons=true&theme=radical&locale=kr)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=당신의깃헙아이디&layout=compact&theme=radical&locale=kr)
-
 ## 🌱 현재 학습 중
 - 🐳 Docker & Kubernetes를 통한 컨테이너 오케스트레이션
 - ☁️ AWS 클라우드 서비스
@@ -85,9 +77,8 @@
 - 🧪 테스트 주도 개발 (TDD)
 
 ## 📫 연락처
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjdtjr9401@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
 
 ## 💡 개발 철학
 > "깨끗한 코드는 단순하고 직접적이다. 깨끗한 코드는 잘 쓴 문장처럼 읽힌다." - Robert C. Martin
