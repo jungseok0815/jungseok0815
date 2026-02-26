@@ -1,7 +1,9 @@
 # 👋 안녕하세요, 차정석입니다
 
 ## 🚀 소개
-환경 및 수자원 관리 시스템을 위한 엔터프라이즈급 애플리케이션을 전문으로 하는 백엔드 개발자입니다. 실제 세계에 영향을 미치는 견고하고 확장 가능한 솔루션을 구축하는 것을 즐깁니다.
+안녕하세요.  
+사람들과의 소통을 중요하게 생각하는 2년차 백엔드 개발자입니다. 새로운 환경과 다양한 사람들과 협업하는 것을 좋아하며, 긍정적인 태도로 문제를 해결하려고 노력합니다.
+팀 안에서 자연스럽게 의견을 나누고, 함께 더 나은 방향을 찾는 과정을 중요하게 생각합니다. Java와 Spring Boot 기반의 백엔드 개발 경험이 있으며, js, react, vue등의 Front 개발경험이 있습니다. 안정적인 서비스 운영과 코드 개선에 관심이 있습니다.
 
 ## 💼 현재 작업 중인 프로젝트
 - 👔 **Outfit Archive** - 소셜 미디어와 이커머스를 결합한 패션 테크 플랫폼 개발
@@ -26,12 +28,6 @@
 
 ## 📫 연락처
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjdtjr9401@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-## 💡 개발 철학
-> "깨끗한 코드는 단순하고 직접적이다. 깨끗한 코드는 잘 쓴 문장처럼 읽힌다." - Robert C. Martin
-
-항상 유지보수가 쉽고, 확장 가능하며, 테스트 가능한 코드를 작성하기 위해 노력합니다.
 
 ---
 <div align="center">
