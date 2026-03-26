@@ -1,3 +1,12 @@
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jungseok0815&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jungseok0815?pet-id=823775694493931710"
+    width="600"
+    height="120"
+  />
+</a>
+  
 # 👋 안녕하세요, 차정석입니다
 
 ## 🚀 소개
